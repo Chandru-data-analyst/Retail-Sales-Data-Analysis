@@ -32,6 +32,7 @@ An interactive Power BI dashboard was created to visualize key performance indic
 - Technology category contributes the highest sales
 - Canon imageCLASS printer is the top selling product
 - Sales peaks during the last quarter of the year
-
-
+  
+## Dashboard Preview
+![Retail Sales Dashboard](dashboard.png)
 
