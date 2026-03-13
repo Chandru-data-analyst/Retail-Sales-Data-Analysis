@@ -35,6 +35,4 @@ An interactive Power BI dashboard was created to visualize key performance indic
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
-Dashboard . png.png
+![Retail Sales Dashboard](Dashboard%20.png.png)
