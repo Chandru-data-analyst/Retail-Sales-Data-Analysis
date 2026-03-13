@@ -34,5 +34,5 @@ An interactive Power BI dashboard was created to visualize key performance indic
 - Sales peaks during the last quarter of the year
 
 ## Dashboard Preview
-
 ![Retail Sales Dashboard](Dashboard%20.png.png)
+
